@@ -11,6 +11,6 @@ Comp::Comp()
 
 int main()
 {
-	Comp cp1 = new Comp();
+	Comp cp1;
 	return 0;
 }
